@@ -1,13 +1,3 @@
----
-name: 'Perkenalan: Manfaat Pertemanan'
-about: mari bersama saling mengenal
-title: ''
-labels: ''
-assignees: ''
-
----
-
-Self Esteem
 Menginjak usia Sekolah Dasar, anak-anak umumnya sudah memilih teman berdasarkan kesamaan ketertarikan, misalnya saja sama-sama suka bermain bola, atau sama-sama menyukai balet. Pertemanan menyadarkan mereka bahwa mereka disukai dan diterima oleh beberapa orang. Hal itu akan membantu mereka melihat diri mereka sebagai pribadi yang menyenangkan serta dapat menumbuhkan self esteem atau harga diri mereka.
  
 Saling Melindungi
